@@ -38,14 +38,17 @@ facebook.com
 
 Canonical Name (CNAME)
 +-----------------------------------------+
+
 [+] facebook.com.
 
 TXT records
 +-----------------------------------------+
+
 [+] v=spf1 redirect=_spf.facebook.com
 
 A and AAAA
 +-----------------------------------------+
+
 [+] 2a03:2880:f12f:183:face:b00c:0:25de
 [+] 31.13.79.35
 
