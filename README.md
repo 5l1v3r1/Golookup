@@ -1,5 +1,5 @@
 # Golookup
-GoLookup is a simple tool , which looks for CNAME(s) ,A and AAAA Records , TXT Records , NameServer(s) / MX Record of any domain 
+GoLookup is a simple tool written in golang , which looks for CNAME(s) ,A and AAAA Records , TXT Records , NameServer(s) / MX Record of any domain 
 
 [+] CNAMES(s) : CNAME is a Canonical Name Record or Alias Record. A type of resource record in the Domain Name System (DNS), that specifies that one domain name is an alias of another canonical domain name.(src = wikipedia)
 
@@ -11,7 +11,7 @@ GoLookup is a simple tool , which looks for CNAME(s) ,A and AAAA Records , TXT R
 
 [+] NameServer(s) : Nameserver is a server on the internet specialized in handling queries regarding the location of a domain name's various services. Nameservers are a fundamental part of the Domain Name System (DNS). They allow using domains instead of IP addresses. (src = wikipedia)
 
-How to Use (Example) :
+# How to Use (Example) :
 
 D:\GO\src\github.com\devanshwolf\golang> go run golookup.go
 
@@ -59,7 +59,7 @@ MX
 [+] msgin.vvv.facebook.com. 10
 
 
-Installation
+#Installation
 
 1 - Install Golang(https://golang.org/doc/install).
 2 - SetUp Proper paths.
@@ -67,6 +67,6 @@ Installation
 4 - Compile the Code .
 5 - Ready to run..!
 
-Contact : https://twitter.com/devanshwolf
+#Contact : https://twitter.com/devanshwolf
 
 credits : http://www.golangprograms.com/ :)
