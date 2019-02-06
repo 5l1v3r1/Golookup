@@ -72,9 +72,13 @@ MX
 # Installation
 
 1 - Install Golang(https://golang.org/doc/install).
+
 2 - SetUp Proper paths.
+
 3 - Install "github.com/fatih/color" Library(via go get github.com/fatih/color). 
+
 4 - Compile the Code .
+
 5 - Ready to run..!
 
 # Contact : 
