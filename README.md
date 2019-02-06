@@ -69,7 +69,7 @@ MX
 [+] msgin.vvv.facebook.com. 10
 
 
-#Installation
+# Installation
 
 1 - Install Golang(https://golang.org/doc/install).
 2 - SetUp Proper paths.
@@ -77,6 +77,6 @@ MX
 4 - Compile the Code .
 5 - Ready to run..!
 
-#Contact : https://twitter.com/devanshwolf
+# Contact : https://twitter.com/devanshwolf
 
 credits : http://www.golangprograms.com/ :)
