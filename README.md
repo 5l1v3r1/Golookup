@@ -58,12 +58,14 @@ A and AAAA
 Name Server(s) (NS)
 
 +-----------------------------------------+
+
 [+] &{a.ns.facebook.com.}
 [+] &{b.ns.facebook.com.}
 
 MX
 
 +-----------------------------------------+
+
 [+] msgin.vvv.facebook.com. 10
 
 
