@@ -66,3 +66,7 @@ Installation
 3 - Install "github.com/fatih/color" Library(via go get github.com/fatih/color). 
 4 - Compile the Code .
 5 - Ready to run..!
+
+Contact : https://twitter.com/devanshwolf
+
+credits : http://www.golangprograms.com/ :)
