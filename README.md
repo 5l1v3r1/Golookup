@@ -77,6 +77,7 @@ MX
 4 - Compile the Code .
 5 - Ready to run..!
 
-# Contact : https://twitter.com/devanshwolf
+# Contact : 
+https://twitter.com/devanshwolf
 
 credits : http://www.golangprograms.com/ :)
