@@ -78,4 +78,6 @@ func mxrec(name string) {
 	for _, mx := range mxrecords {
 		fmt.Println("[+]",mx.Host, mx.Pref)
 	}
+	End:
+	goto End //This Label is here intentionally 
 }
