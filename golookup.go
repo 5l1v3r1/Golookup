@@ -5,7 +5,7 @@ import (
 	"net"
 	"github.com/fatih/color"
 )
-// Main function 
+// Main function , there are no todos
 func main(){
 	var name string 
 	banner := `
